@@ -8,7 +8,10 @@
 
 工具：
 [1] [Lingpipe](http://alias-i.com/lingpipe/ "Title").
+
 [2] [Weka](http://www.cs.waikato.ac.nz/ml/weka/ "Title").
 
 参考文献：
 [1] [The Naive Bayes Model, Maximum-Likelihood Estimation, and the EM Algorithm](http://www.cs.columbia.edu/~mcollins/em.pdf "Title").
+
+
