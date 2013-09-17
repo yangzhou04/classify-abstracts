@@ -16,4 +16,9 @@
 
 [1] [The Naive Bayes Model, Maximum-Likelihood Estimation, and the EM Algorithm](http://www.cs.columbia.edu/~mcollins/em.pdf "Title").
 
+[2] [Text Classication from Labeled and Unlabeled Documents using EM](http://www.kamalnigam.com/papers/emcat-mlj99.pdf "Title").
+
+[3] [Semi-Supervised Text Classiﬁcation Using EM](http://people.cs.umass.edu/~mccallum/papers/semisup-em.pdf "Title").
+
+[4] [The EM Algorithm](http://pages.cs.wisc.edu/~jerryzhu/cs838/EM.pdf "Title").
 
